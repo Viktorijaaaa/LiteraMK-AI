@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE configuration
+.vscode/
+
+# Environment variables and secrets
+.env
+.streamlit/secrets.toml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Literary datasets - pending copyright verification
+data/raw/
+data/processed/
